@@ -42,7 +42,7 @@ void loop() {
 
 ### Files
 - Source: [EZDist.cpp](EZDist.cpp)
-- Header: [EZDist.h](EZDist.j)
+- Header: [EZDist.h](EZDist.h)
 - Examples:
   - [Print raw distance](examples/PrintDistanceRaw/PrintDistanceRaw.ino)
   - [Print distance in cm](examples/PrintDistanceCentimeters/PrintDistanceCentimeters.ino)
